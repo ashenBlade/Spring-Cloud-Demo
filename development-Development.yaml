@@ -1,2 +1,3 @@
-Sample__Value1: 'hello, world'
-Sample__Value2: 123
+Sample:
+  Value1: 'hello, world'
+  Value2: 123
